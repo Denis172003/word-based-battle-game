@@ -107,8 +107,3 @@ python simple_counter.py
 Special thanks to the hackathon organizers for a fun and challenging event, and to all teammates who contributed!
 
 ---
-
-## 📬 Contact
-
-- **Email:** yourname@example.com  
-- **GitHub:** [your-username](https://github.com/your-username)
