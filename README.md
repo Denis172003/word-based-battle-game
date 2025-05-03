@@ -93,17 +93,3 @@ python simple_counter.py
 ```
 
 ---
-
-## ✨ Future Improvements
-
-- 🎯 **Predictive AI:** Analyze past rounds to anticipate system words.
-- 🖥️ **GUI Front-End:** Build a visual interface for more engaging gameplay.
-- 🤖 **Bot Battles:** Simulate “AI vs. AI” tournaments with leaderboards.
-
----
-
-## 🙌 Acknowledgments
-
-Special thanks to the hackathon organizers for a fun and challenging event, and to all teammates who contributed!
-
----
